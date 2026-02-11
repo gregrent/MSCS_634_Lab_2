@@ -1,4 +1,4 @@
-# KNN and Radius Neighbors Classifier Lab
+# Lab 2: Classification Using KNN and RNN Algorithms
 
 ## Purpose of the Lab
 
